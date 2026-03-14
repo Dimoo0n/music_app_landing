@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Dimoo0n.github.io/music_app_landing/sitemap.xml
